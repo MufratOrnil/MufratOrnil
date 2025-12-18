@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mufrat Ornil 👨‍💻</h1>
+<h1 align="center">Hi, I'm Mufrat Ornil 🛠️</h1>
 
 <p align="center">
   <strong>Code Artisan (ASP.NET Developer · Backend-Focused · System Builder)</strong>
