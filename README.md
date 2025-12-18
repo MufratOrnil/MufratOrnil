@@ -1,71 +1,73 @@
-<h1 align="center">Hi, I'm Mufrat Ornil 👋</h1>
+<h1 align="center">Hi, I'm Mufrat Ornil 👨‍💻</h1>
 
 <p align="center">
-  **`Code Artisan (ASP.NET / C# / Full-Stack Developer)`**  
+  <strong>Code Artisan (ASP.NET Developer · Backend-Focused · System Builder)</strong>
 </p>
 
 <p align="center">
-  I craft clean, efficient, and scalable web applications using Microsoft technologies.<br/>
-  Passionate about backend logic, database design, and turning ideas into real-world solutions.
+  I build clean, scalable web applications using Microsoft technologies.<br>
+  Focused on backend logic, database design, and real-world business systems.
 </p>
 
----
-
-## 🧠 About Me
-
-- 💻 Junior Full-Stack Developer specializing in **ASP.NET & C#**
-- 🏗️ Strong focus on **backend logic, data modeling, and CRUD-based systems**
-- 🧩 Enjoy turning complex requirements into maintainable solutions
-- 📈 Continuously improving through hands-on projects
 
 ---
 
-## 🛠️ Technology Stack
+## About Me
 
-**Backend:** C#, ASP.NET Core, ASP.NET MVC, Web Forms, Entity Framework Core  
-**Frontend:** HTML, CSS, Bootstrap, JavaScript  
-**Database:** SQL Server (Code-First & Database-First)  
-**Tools & Others:** Git, GitHub, Visual Studio, REST APIs, Authentication & Authorization  
+- Junior Full-Stack Developer specializing in **ASP.NET & C#**
+- Strong interest in **backend development and data modeling**
+- Experienced in building **CRUD-based, real-world applications**
+- Always learning through hands-on projects and practice
 
 ---
 
-## 🚀 Featured Projects
+## Technology Stack
 
-### 📦 Order Management System
+**Backend**  
+C#, ASP.NET Core, ASP.NET MVC, Web Forms, Entity Framework Core, LINQ  
+
+**Frontend**  
+HTML, CSS, Bootstrap, JavaScript  
+
+**Database**  
+SQL Server (Code-First & Database-First)  
+
+**Tools & Practices**  
+Git, GitHub, Visual Studio, REST APIs, Authentication & Authorization  
+
+---
+
+## Featured Projects
+
+### [Order Management System](https://github.com/MufratOrnil/order-management-system)
 **ASP.NET Core · EF Core · SQL Server**
-- Master–Detail CRUD (Orders & Order Items)
-- Image upload functionality
-- Code-First migrations
-- Responsive UI with Bootstrap  
-🔗 `order-management-system`
+- Master–Detail CRUD for orders and order items
+- Image upload and Code-First migrations
+- Responsive UI built with Bootstrap
 
 ---
 
-### 👥 Employee Management System
+### [Employee Management System](https://github.com/MufratOrnil/EmployeeManagement-WebForms-CRUD)
 **ASP.NET Web Forms · C# · SQL Server**
-- Complete CRUD workflow
+- Complete employee CRUD workflow
 - Server-side validation
-- Clean and structured codebase  
-🔗 `EmployeeManagement-WebForms-CRUD`
+- Clean, well-structured codebase
 
 ---
 
-### 🎧 Support Helpdesk Portal
+### [Support Helpdesk Portal](https://github.com/MufratOrnil/SupportHelpdeskPortal)
 **ASP.NET Web Forms**
-- Authentication & role-based authorization
-- Ticket management system
-- File attachments
-- Basic inventory management  
-🔗 `SupportHelpdeskPortal`
+- Authentication and role-based authorization
+- Ticket management with file attachments
+- Basic inventory management module
 
 ---
 
-### 💬 Real-Time Chat Application
+### [Real-Time Chat Application](https://github.com/MufratOrnil/prochat)
 **Node.js · Socket.IO**
-- Live messaging
-- File sharing
-- Read receipts  
-🔗 `prochat`
+- Real-time messaging system
+- File sharing support
+- Read receipts
 
 ---
 
@@ -94,7 +96,7 @@ I’m seeking a **Junior .NET / Software Engineer** role where I can:
 
 - GitHub: https://github.com/MufratOrnil  
 - Email: mufrat.ornil@gmail.com  
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/mufrat-ornil)  
+- LinkedIn: https://www.linkedin.com/in/mufrat-ornil 
 
 ---
 
